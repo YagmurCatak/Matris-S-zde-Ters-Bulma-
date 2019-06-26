@@ -1,0 +1,65 @@
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Desktop\yazlabprojeleri\yazılım_lab_2\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Metotlar.resources
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Desktop\yazlabprojeleri\matrisinsözdetersini bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Metotlar.resources
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\02483993\Desktop\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Metotlar.resources
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\Yagmur\Downloads\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Metotlar.resources
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+C:\Users\yagmur\Downloads\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe.config
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.exe
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\bin\Debug\MatrisinSözdeTersiniBulma.pdb
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csprojAssemblyReference.cache
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Form1.resources
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Metotlar.resources
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.Properties.Resources.resources
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.GenerateResource.cache
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.csproj.CoreCompileInputs.cache
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.exe
+E:\Yaz lab 1\matrisin sözde tersini bulma\son versiyon matris sözde ters bulma\MatrisinSözdeTersiniBulma\MatrisinSözdeTersiniBulma\obj\Debug\MatrisinSözdeTersiniBulma.pdb
